@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @LoboVH
 - 👀 I’m interested in DApps
-- 🌱 I’m currently learning FullStack Blockchain Development
+- 🌱 I’m currently working at BlokMiners as Solana Developer
+     -  I have experience writing Smart contracts on Solana using Anchor framework, I am also comfortable integrating the contracts with the React frontend
+     -  I have worked on NFT market place project on NEAR
 - 💞️ I’m looking to collaborate on dapp projects
 - 📫 How to reach me: mailId:lobovarsha18@gmail.com
                        Linkedin:https://www.linkedin.com/in/varsha-haris-lobo-b87a9a167
