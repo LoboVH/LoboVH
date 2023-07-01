@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoboVH
 - 👀 I’m interested in building DApps
-- 🌱 I’m currently working at BlokMiners as Solana Developer
+- 🌱 I’m currently working at Regov Tech as Junior Solana Developer
      -  I have experience writing Smart contracts on Solana using Anchor framework, I am also comfortable integrating the contracts with the React frontend
      -  I have worked on NFT market place project on NEAR
 - 💞️ I’m looking to collaborate on dapp projects
